@@ -1,3 +1,6 @@
+
+#https://cses.fi/problemset/task/1068/
+
 n = int(input())
 print(n)
 
